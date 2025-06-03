@@ -24,7 +24,7 @@ body{
 
  .cartao{
     margin: 1rem 1rem;
-    background-color: darkgreen;
+    background-color: lawngreen;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 0.6rem);
@@ -32,12 +32,12 @@ body{
 
  .cartao_conteudo{
     text-align: center;
-    background-color: lawngreen;
+    background-color: darkgreen;
     height: 100%;
  }
 
  .cartao_conteudo h3 {
-    background-color: darkblue;
+    background-color: whitesmoke;
     text-align: left;
     padding: 0.5rem;
     border-radius: 0.6rem;
