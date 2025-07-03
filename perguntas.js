@@ -4,11 +4,11 @@ function criaCartao( categoria, pergunta,resposta){
     'Como é feito a Fotossíntese?'
     'Pelo sol'
 }
-criaCartao(
+criaCartao( categoria, perguntas, respostas){
     'PROGRAMAÇÃO'
-    'O que é javaScript?'
-    'É uma linguagem de programação!'
-)
+    'Qual é a capital da França?'
+    'Paris'
+}
 criaCartao(
     'GEOGRAFIA'
     'Qual a capital do Brasil'
