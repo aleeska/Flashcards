@@ -4,13 +4,13 @@ function criaCartao( categoria, pergunta,resposta){
     'Como é feito a Fotossíntese?'
     'Pelo sol'
 }
-criaCartao( categoria, perguntas, respostas){
+function criaCartao( categoria, pergunta, resposta){
     'PROGRAMAÇÃO'
     'Qual é a capital da França?'
     'Paris'
 }
-criaCartao(
+function criaCartao( categoria, pergunta, resposta){
     'GEOGRAFIA'
     'Qual a capital do Brasil'
     'Brasília'
-)
+}
